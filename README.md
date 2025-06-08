@@ -19,7 +19,8 @@ This project showcases the implementation of a data warehouse in SAP BW/4HANA 2.
 - Master + transaction data integration
 - Snowflake schema principles applied
 
-📄 [Download Project PDF](https://raw.githubusercontent.com/Prem3791/sap-datawarehouse-project/main/SAP_DataWarehouse_Project.pdf)
+📄 (https://raw.githubusercontent.com/Prem3791/sap-datawarehouse-project/main/SAP_DataWarehouse_Project.pdf)
+
 
 
 
