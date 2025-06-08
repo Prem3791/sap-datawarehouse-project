@@ -18,8 +18,8 @@ This project showcases the implementation of a data warehouse in SAP BW/4HANA 2.
 - Reporting-ready virtual schema built using Composite Provider
 - Master + transaction data integration
 - Snowflake schema principles applied
+https://drive.google.com/file/d/1KuFxS3lLzKapTQCaD-W2fUX3Ox9IzJk9/view?usp=sharing
 
-📄 [Download Project PDF](https://raw.githubusercontent.com/Prem3791/sap-datawarehouse-project/main/SAP_DataWarehouse_Project.pdf)
 
 
 
